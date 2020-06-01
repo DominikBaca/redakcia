@@ -9,3 +9,7 @@ rad
 mam
 rad
 ulohy
+----
+toto
+je krasny
+zaver
