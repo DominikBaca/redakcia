@@ -11,5 +11,5 @@ rad
 ulohy
 ----
 toto
-je skaredy
+je krasny
 zaver
